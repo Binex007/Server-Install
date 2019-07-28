@@ -1,4 +1,5 @@
 # Server-Install
+install MySQL https://dev.mysql.com/downloads/installer/
 1.Download all the file and extrakt !
 2.Drop the Arma3 folder on C:\ !
 3.Drop the steam folder on C:\ !
